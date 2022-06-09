@@ -3,7 +3,7 @@ The Opencv library is used in conjunction with Python to detect the hand and cou
 It just counts from 0 to 5 the number of fingers in front of the camera.
 The hand's terminal points form a complete shape.
 This contour indicates that a hand has been identified.
-When the palm is open, we count the amount of gaps between the fingers to determine the number of fingers.
+When the palm is open, we count the number of gaps between the fingers to determine the number of fingers.
 This void forms a defect in the contour, which we can count to get the number of fingers.
 So there are four defects, or gaps, for each of the five fingers.
 
