@@ -1,4 +1,4 @@
-# Counting-finger-using-opencv
+# Gesture Recognition with OpenCV: Automated Finger Counting for Enhanced Human-Computer Interaction
 The Opencv library is used in conjunction with Python to detect the hand and count the fingers.
 It just counts from 0 to 5 the number of fingers in front of the camera.
 The hand's terminal points form a complete shape.
